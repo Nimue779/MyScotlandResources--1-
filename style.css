@@ -3,6 +3,10 @@
 
 }
 
+img{
+    width: 100%;
+}
+
 .hero-image{
     background-image: url(./images/scotland-1987599_1280.jpg);
     height: 352px;
