@@ -1,6 +1,5 @@
 *  {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
 }
 
 img{
@@ -13,7 +12,6 @@ img{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-
 }
 
 .hero-text{
@@ -29,5 +27,6 @@ img{
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 50px;
-    
+    width: 80%;
+    margin: auto;
 }
